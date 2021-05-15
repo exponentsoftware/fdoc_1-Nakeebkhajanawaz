@@ -17,3 +17,4 @@ function wordcounts(paragraph,love,you) {
     //return paragraph.split(' ').length
 }
 console.log(wordcounts(paragraph,'love','you' ))
+
