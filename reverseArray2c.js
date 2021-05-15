@@ -1,3 +1,4 @@
+//Reversing an array
 
 array1=["A","B","C","D"];
 function reverseArray(array1) {

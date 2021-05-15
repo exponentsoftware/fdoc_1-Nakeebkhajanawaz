@@ -1,3 +1,5 @@
+// Write a function which check if items of an array are unique?
+
 function checkUniqueness(arr) {
     const len = arr.length;
     for (let i = 0; i < len; i++) {
