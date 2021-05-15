@@ -14,5 +14,6 @@ function checkUniqueness(arr) {
 const arrOne = [1, 4, 6, 2, 1];
 console.log("arrayone is : "+checkUniqueness(arrOne));
 
+
 const arrTwo = [1, 4, 6, 2, 3]
 console.log("arrayTwo is : "+checkUniqueness(arrTwo));
