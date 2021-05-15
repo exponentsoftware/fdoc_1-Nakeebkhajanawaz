@@ -10,3 +10,4 @@ function reverseArray(array1) {
   }
   
   console.log(reverseArray(array1));
+
