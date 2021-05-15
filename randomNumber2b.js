@@ -10,3 +10,4 @@ console.log(arr);
 
 }
 console.log(getRandomNumbers(0,9));
+
